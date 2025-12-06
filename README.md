@@ -96,7 +96,7 @@ MIT License
 
 **个人使用**：免费
 
-**商业平台使用**：需通知作者授权
+**商业平台方和机构使用**：需通知作者授权
 
 ---
 
@@ -198,7 +198,7 @@ MIT License
 
 **Personal Use**: Free
 
-**Commercial Platform Use**: Please notify the author for authorization
+**Commercial platform parties and institutional use**: Please notify the author for authorization
 
 ---
 
