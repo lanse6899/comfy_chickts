@@ -1,6 +1,7 @@
 # 🐣 Chick Temporary Save - ComfyUI 图片临时存储插件
 
 一个功能强大的 ComfyUI 插件，提供图片临时存储、管理和导出功能。
+<img width="853" height="587" alt="ScreenShot_2025-12-06_150521_253" src="https://github.com/user-attachments/assets/51133298-71ca-40cc-bc9a-dc081cd53cf8" />
 
 ---
 
