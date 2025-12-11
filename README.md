@@ -5,7 +5,11 @@
 <img width="853" height="587" alt="ScreenShot_2025-12-06_150521_253" src="https://github.com/user-attachments/assets/dbd4e24f-6901-45c5-ae97-b56775179a30" />
 
 ---
+### 更新2025.12.11
+增加了视频播放、上传功能
+增加了缩略图调节大小功能
 
+- **多种导入方式**：拖放、粘贴按钮、上传
 ## ✨ 主要功能
 
 ### 📷 图片管理
