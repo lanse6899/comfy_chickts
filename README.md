@@ -5,6 +5,8 @@
 <img width="853" height="587" alt="ScreenShot_2025-12-06_150521_253" src="https://github.com/user-attachments/assets/dbd4e24f-6901-45c5-ae97-b56775179a30" />
 
 ---
+## ✨ 更新
+添加了视频和.TXT .DOCX文档的预览
 
 ## ✨ 主要功能
 
